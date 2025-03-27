@@ -1,0 +1,13 @@
+/mnt/d/vs_proj/mprpc/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/mprpc/build/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/mprpc/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/mprpc/build/src/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/mprpc/build/src/CMakeFiles/mprpc.dir
+/mnt/d/vs_proj/mprpc/build/example/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/callee/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/callee/CMakeFiles/provider.dir
+/mnt/d/vs_proj/mprpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/caller/CMakeFiles/edit_cache.dir
+/mnt/d/vs_proj/mprpc/build/example/caller/CMakeFiles/consumer.dir
